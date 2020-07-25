@@ -1,0 +1,117 @@
+q3_short_encode
+Encode symbol 3
+New interval is [0.186667, 0.256667) 
+Send bit 0 
+New interval is [0.373333, 0.513333).
+Encode symbol 5
+New interval is [0.416889, 0.460444) 
+Send bit 0 
+New interval is [0.833778, 0.920889).
+Send bit 1 
+New interval is [0.667556, 0.841778).
+Send bit 1 
+New interval is [0.335111, 0.683556).
+Encode symbol 3
+New interval is [0.416415, 0.457067) 
+Send bit 0 
+New interval is [0.832830, 0.914133).
+Send bit 1 
+New interval is [0.665659, 0.828267).
+Send bit 1 
+New interval is [0.331319, 0.656533).
+Encode symbol 6
+New interval is [0.533674, 0.634852) 
+Send bit 1 
+New interval is [0.067349, 0.269705).
+Send bit 0 
+New interval is [0.134698, 0.539409).
+Encode symbol 9
+New interval is [0.436882, 0.512429) 
+Encode symbol 5
+New interval is [0.436882, 0.460386) 
+Send bit 0 
+New interval is [0.873765, 0.920771).
+Send bit 1 
+New interval is [0.747530, 0.841543).
+Send bit 1 
+New interval is [0.495059, 0.683085).
+Encode symbol 3
+New interval is [0.538932, 0.560868) 
+Send bit 1 
+New interval is [0.077864, 0.121737).
+Send bit 0 
+New interval is [0.155728, 0.243473).
+Send bit 0 
+New interval is [0.311456, 0.486947).
+Send bit 0 
+New interval is [0.622911, 0.973893).
+Send bit 1 
+New interval is [0.245823, 0.947787).
+Encode symbol 2
+New interval is [0.245823, 0.464212) 
+Send bit 0 
+New interval is [0.491646, 0.928423).
+Encode symbol 6
+New interval is [0.817773, 0.899305) 
+Send bit 1 
+New interval is [0.635546, 0.798610).
+Send bit 1 
+New interval is [0.271092, 0.597219).
+Encode symbol 9
+New interval is [0.514600, 0.575477) 
+Send bit 1 
+New interval is [0.029200, 0.150955).
+Send bit 0 
+New interval is [0.058401, 0.301909).
+Send bit 0 
+New interval is [0.116802, 0.603818).
+Encode symbol 8
+New interval is [0.419834, 0.571351) 
+Encode symbol 4
+New interval is [0.419834, 0.448117) 
+Send bit 0 
+New interval is [0.839668, 0.896234).
+Send bit 1 
+New interval is [0.679337, 0.792469).
+Send bit 1 
+New interval is [0.358674, 0.584938).
+Encode symbol 2
+New interval is [0.400910, 0.443146) 
+Send bit 0 
+New interval is [0.801819, 0.886291).
+Send bit 1 
+New interval is [0.603638, 0.772582).
+Send bit 1 
+New interval is [0.207277, 0.545165).
+Encode symbol 3
+New interval is [0.270349, 0.333422) 
+Send bit 0 
+New interval is [0.540698, 0.666843).
+Send bit 1 
+New interval is [0.081396, 0.333686).
+Send bit 0 
+New interval is [0.162793, 0.667372).
+Encode symbol 2
+New interval is [0.162793, 0.319773) 
+Send bit 0 
+New interval is [0.325585, 0.639546).
+Encode symbol 0
+New interval is [0.618615, 0.639546) 
+Send bit 1 
+New interval is [0.237231, 0.279092).
+Send bit 0 
+New interval is [0.474461, 0.558184).
+Send 1 at last to guarantee that <eot> is received
+
+The value is 0.215709
+
+The code is: 
+  列 1 至 22
+
+     0     0     1     1     0     1     1     1     0     0     1     1     1     0     0     0     1     0     1     1     1     0
+
+  列 23 至 36
+
+     0     0     1     1     0     1     1     0     1     0     0     1     0     1
+
+diary off

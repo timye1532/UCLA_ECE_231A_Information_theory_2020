@@ -1,0 +1,19 @@
+Those codes are in MATLAB_code folder
+
+    -- q2_short_encode.m, q2_short_decode.m
+	encode and decode implementation for short sequence of question 2
+    -- q2_long_encode.m
+	encode process for long sequence of question 2
+
+    -- q3_short_encode.m, q3_short_decode.m
+	encode and decode implementation for short sequence of question 3
+    -- q3_long_encode.m
+	encode process for long sequence of question 3
+
+For question 2, run q2_short_encode.m to get the result of encoding and then run q2_short_decode.m to get the result of decoding for short sequence
+q2_short_decode.m must be run after the q2_short_encode.m
+Run q2_long_encode.m to get the result of encoding long sequence
+
+For question 3, run q3_short_encode.m to get the result of encoding and then run q3_short_decode.m to get the result of decoding for short sequence
+q3_short_decode.m must be run after the q3_short_encode.m
+Run q3_long_encode.m to get the result of encoding long sequence

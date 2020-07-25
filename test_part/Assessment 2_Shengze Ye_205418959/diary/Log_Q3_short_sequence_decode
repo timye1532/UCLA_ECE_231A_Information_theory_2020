@@ -1,0 +1,23 @@
+q3_short_decode
+Decode process for question 3 short sequence
+
+The value is: 
+   0.215709260271979
+
+Symbol is 3. New value is 0.414894. 
+Symbol is 5. New value is 0.333588. 
+Symbol is 3. New value is 0.859330. 
+Symbol is 6. New value is 0.762132. 
+Symbol is 9. New value is 0.082848. 
+Symbol is 5. New value is 0.266297. 
+Symbol is 3. New value is 0.282549. 
+Symbol is 2. New value is 0.908195. 
+Symbol is 6. New value is 0.865328. 
+Symbol is 9. New value is 0.635687. 
+Symbol is 8. New value is 0.043279. 
+Symbol is 4. New value is 0.231849. 
+Symbol is 2. New value is 0.242050. 
+Symbol is 3. New value is 0.296697. 
+Symbol is 2. New value is 0.953669. 
+Symbol is 0. New value is 0.305041. 
+diary off
